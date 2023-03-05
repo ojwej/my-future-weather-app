@@ -1,0 +1,52 @@
+.card {
+  background: linear-gradient(
+    90.9deg,
+    rgb(255, 187, 187) -8.8%,
+    rgb(255, 220, 177) 12.4%,
+    rgb(255, 249, 177) 35.6%,
+    rgb(220, 255, 177) 59.6%,
+    rgb(177, 218, 255) 84%,
+    rgb(222, 177, 255) 107.9%
+  );
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  background: transparent;
+  font-size: 13px;
+  text-align: center;
+  padding: 6px 12px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+hr {
+  margin: 40px auto;
+}
+
+p {
+  margin: 16px auto;
+  font-size: 15px;
+}
+
+.main-city {
+  font-size: 50px;
+}
+
+.main-temperature {
+  font-size: 32px;
+}
+
+.emojis {
+  font-size: 50px;
+}
+
+.last {
+  margin-bottom: 40px;
+}
